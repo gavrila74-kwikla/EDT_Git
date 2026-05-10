@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdclass:Enum xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" uuid="0f77f28a-7f31-4955-9710-c4b31e1d96af">
+  <producedTypes>
+    <refType typeId="8cf5bff2-f9a7-4154-b5b1-8a3fa7a5f538" valueTypeId="fd3f12a6-28b5-4b68-b089-ec3c51c2d9bb"/>
+    <listType typeId="7a1a2f16-a57c-46c5-a347-018212e7c71a" valueTypeId="0f608c2b-f683-4586-b8fa-ad276a496040"/>
+    <managerType typeId="9a33d51b-4bba-481e-ac2c-00cdcedfb39b" valueTypeId="ee9a275a-6201-4400-b3b2-35810f4e6c35"/>
+  </producedTypes>
+  <name>СтатусыЗаказа</name>
+  <synonym>
+    <key>ru</key>
+    <value>Статусы заказа</value>
+  </synonym>
+  <quickChoice>true</quickChoice>
+  <choiceMode>BothWays</choiceMode>
+  <enumValues uuid="d46e8615-f5a9-40cc-9bc6-2d1d170affd8">
+    <name>Новый</name>
+    <synonym>
+      <key>ru</key>
+      <value>Новый</value>
+    </synonym>
+  </enumValues>
+  <enumValues uuid="9daf48c9-698a-47aa-be79-600d3d6ee9f9">
+    <name>ВРаботе</name>
+    <synonym>
+      <key>ru</key>
+      <value>В работе</value>
+    </synonym>
+  </enumValues>
+</mdclass:Enum>
