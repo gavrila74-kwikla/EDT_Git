@@ -26,4 +26,11 @@
       <value>В работе</value>
     </synonym>
   </enumValues>
+  <enumValues uuid="fbbc7bba-72c0-4f40-880f-d6a233b25969">
+    <name>ОжидаетОплаты</name>
+    <synonym>
+      <key>ru</key>
+      <value>Ожидает оплаты</value>
+    </synonym>
+  </enumValues>
 </mdclass:Enum>
